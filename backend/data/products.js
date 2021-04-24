@@ -1,6 +1,6 @@
 const products = [
     {
-        _id:'1',
+        
         name:'Airpods wireless Bluetooth Headphones',
         image:'../images/airpods.jpg',
         description:'Bluetooth technology lets you connect it with compatible devies wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
@@ -14,7 +14,7 @@ const products = [
     },
 
     {
-        _id:'2',
+        
         name:'Airpods wireless Bluetooth Headphones',
         image:'../images/alexa.jpg',
         description:'Bluetooth technology lets you connect it with compatible devies wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
@@ -26,7 +26,7 @@ const products = [
         numReviews:49,
     },
     {
-        _id:'3',
+        
         name:'Airpods wireless Bluetooth Headphones',
         image:'/images/camera.jpg',
         description:'Bluetooth technology lets you connect it with compatible devies wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
@@ -38,7 +38,7 @@ const products = [
         numReviews:51,
     },
     {
-        _id:'4',
+        
         name:'Airpods wireless Bluetooth Headphones',
         image:'/images/phone.jpg',
         description:'Bluetooth technology lets you connect it with compatible devies wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
@@ -50,7 +50,7 @@ const products = [
         numReviews:33,
     },
     {
-        _id:'5',
+        
         name:'Airpods wireless Bluetooth Headphones',
         image:'/images/playstation.jpg',
         description:'Bluetooth technology lets you connect it with compatible devies wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
@@ -62,7 +62,7 @@ const products = [
         numReviews:42,
     },
     {
-        _id:'6',
+        
         name:'Airpods wireless Bluetooth Headphones',
         image:'/images/phone1.jpg',
         description:'Bluetooth technology lets you connect it with compatible devies wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
