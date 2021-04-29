@@ -1,10 +1,28 @@
-main{
+main {
   min-height: 80vh;
 }
-h3{
-  padding:1rem 0;
+
+h3 {
+  padding: 1rem 0;
 }
 
-.rating span{
-  margin:0.1rem;
+.rating span {
+  margin: 0.1rem;
+}
+
+h1 {
+  font-size: 1.8rem;
+  padding: 1rem 0;
+}
+
+h2 {
+  font-size: 1.4rem  !important;
+  /* padding-right: -100px  !important; */
+  padding: 0.5rem 0 !important;
+}
+
+.subtotal {
+  margin-left: 0px;
+  font-size: o.4rem;
+  /* padding:0px; */
 }
