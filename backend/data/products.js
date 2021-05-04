@@ -14,19 +14,17 @@ const products = [
     },
 
     {
-        
         name:'Airpods wireless Bluetooth Headphones',
         image:'../images/alexa.jpg',
         description:'Bluetooth technology lets you connect it with compatible devies wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
         brand:'Apple',
         category:'Electronics',
-        price:89.99,
+        price:0.99,
         countInStock:3,
         rating:3,
         numReviews:49,
     },
     {
-        
         name:'Airpods wireless Bluetooth Headphones',
         image:'/images/camera.jpg',
         description:'Bluetooth technology lets you connect it with compatible devies wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
